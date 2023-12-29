@@ -5,6 +5,7 @@ L'association Carl accompagne les enfants victimes de violences intrafamiliales 
 
 
 ## Repository du Frontend
+Application à utiliser le projet AssoCarl
 
 [Association AssoCarl](https://github.com/AdilBID/AssoCarl)
 
@@ -14,7 +15,7 @@ L'association Carl accompagne les enfants victimes de violences intrafamiliales 
 Install my-project with npm
 
 ```bash
-    git clone https://github.com/votre-utilisateur/votre-projet.git
+    git clone https://github.com/AdilBID/AssoCarlBackend.git 
     cd votre-projet
     npm install
 ```
