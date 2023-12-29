@@ -21,12 +21,12 @@ Install my-project with npm
 ```
 
 
-
 ## Utilisation de Dotenv
 Créez un fichier '.env' à la racine du projet et ajoutez les informations sensibles :
+Il faudra utiliser obligatoirement une adresse mail outlook.
 
 ```bash
-EMAIL_USER=your_email@example.com
+EMAIL_USER=your_email@outlook.com
 EMAIL_PASS=your_email_password
 EMAIL_RECEIVER=receiver_email@example.com
 ```
